@@ -27,7 +27,13 @@ function randomBosses() {
       "Pontiff Sulyvahn", 
       "Dancer of the Boreal Valley", 
       "Twin Princes", 
-      "Champion Gundyr"] 
+      "Champion Gundyr",
+      "Nameless King",
+      "Slave Knight Gael",
+      "Darkeater Midir",
+      "Dragonslayer Armour",
+      "Soul of Cinder",
+      "Sister Friede",] 
 
 /*function randomBackground(){
     imageContainer = document.querySelector(".imageContainer");

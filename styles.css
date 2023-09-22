@@ -1,19 +1,21 @@
 * {
     margin: auto;
-    width: 50%;
-    padding: 10px;
+    width: auto;
+    padding: 30px;
 }
 
 button {
     display: flex;
-    font: inherit;
-    padding: 1.5em 3em;
+    justify-content: center;
+    align-items: center;
+    padding: 4em 7em;
     background: whitesmoke;
     border: 0.1em solid hsl(185, 53%, 34%);
     border-radius: 100vw;
     cursor: pointer;
     transition: background-color 250ms;
-
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    font-weight: bold;
     position: relative;
     isolation: isolate;
     overflow: hidden;
@@ -86,6 +88,7 @@ h1 {
     font-weight:lighter;
     text-shadow: black 5px 0 8px, #FC0 10px 0 10px;
     margin: 10px;
+    justify-content: center;
 }
 
 
